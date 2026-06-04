@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[https://systemhalifax.github.io/age-calculator-app/](https://systemhalifax.github.io/age-calculator-app/)](https://rkentcd.github.io/age-calculator-app/)
+- Live Site URL: https://rkentcd.github.io/age-calculator-app/
 
 ## Author
 
